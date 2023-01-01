@@ -1,0 +1,15 @@
+# ignore build files
+**/target/*
+**/__pycache__/*
+**/*.pyc
+
+# ignore IntelliJ files
+**/.idea/*
+
+# ignore Visual Studio Code files
+**/.vscode/*
+**/.metals/*
+**/.bloop/*
+**/metals.sbt
+**/project/project/**
+**/.bsp/*
